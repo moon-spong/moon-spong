@@ -1,4 +1,4 @@
-hi im moon-spong or moon
+hi im moon_spong or moon
 im currently learning how to make a tmod mod
 
 - you can contact me on discord at nakomae
